@@ -1,6 +1,6 @@
 package instituto;
 
-public class nota {
+public class nota extends examen{
 	
 	int NumNotasAprobadas;
 	int NumNotasSuspensas;
